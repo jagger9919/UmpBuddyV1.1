@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="umpire_buddy_v1">Umpire Buddy v1</string>
+    <string name="strikeCnt">0</string>
+    <string name="ballCnt">0</string>
+    <string name="balls">Balls</string>
+    <string name="strikes">Strikes</string>
+    <string name="reset">reset</string>
+    <string name="exit">exit</string>
+</resources>
